@@ -1,2 +1,4 @@
-# log-analysis
-this is first project of nandegree full stack
+fullstack-nanodegree-vm
+=============
+
+Common code for the Relational Databases and Full Stack Fundamentals courses
